@@ -1,25 +1,15 @@
-# Library name
+# 🚀 Welcome to your new awesome project!
 
-> A short description about what your library is.
+This project has been created using **webpack-cli**, you can now run
 
-## Motivation
-
-> Elaborate on the reason behind this library: why may people need it? What issues does it solve? How is it different from the similar libraries?
-
-## Getting started
-
-> Go through the steps necessary to install, configure, and use your library.
-
-### Install
-
-```bash
-$ npm install <LIBRARY_NAME>
+```
+npm run build
 ```
 
-## Documentation
+or
 
-> Reference the documentation website, or write the documentation straight in this README file.
+```
+yarn build
+```
 
-## Contributing
-
-Please read the [Contribution guidelines](CONTRIBUTING.md) to start with your awesome contributions!
+to bundle your application
